@@ -70,7 +70,7 @@ The table below outlines leading enterprise hosted and cloud-first SaaS PDF view
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Below are the most prominent, active open-source PDF viewers, rendering engines, and developer libraries—ordered strictly in **descending order by GitHub Stars**:
+Below are the most prominent, active open-source PDF viewers, rendering engines, and developer libraries—ordered strictly in **descending order by GitHub_Stars**:
 
 ### 1. [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
 - **License**: NOASSERTION (Open-Core) | **Primary Language**: TypeScript / Java
